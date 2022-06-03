@@ -141,8 +141,11 @@ El proyecto se divide en tres programas:
 
 ![Reconocimiento](img/reconocimiento.jpg)
 
+## 8. Presentación
 
-## 8. Referencias bibliográficas
+En este [enlace](https://view.genial.ly/628bfeda23771700113c4e66/presentation-presentacion) se puede ver la presentación realizada para su exposición en clase.
+
+## 9. Referencias bibliográficas
 - https://www.electronicid.eu/es/blog/post/como-funciona-reconocimiento-facial/es
 - https://www.lisainstitute.com/blogs/blog/reconocimiento-facial-como-funciona-quien-utiliza
 - https://www.iebschool.com/blog/reconocimiento-facial-tecnologia/#donde_facial
